@@ -2,6 +2,10 @@
 
 YouTubeDownloader is a simple and user-friendly Python script. This script allows you to download YouTube videos in MP3 format, converting the video title into a clean file name and creating SEO-friendly file names.
 
+29.03.2024  GUI Added!
+
+![Resim Açıklaması](./image.png)
+
 ## Installation
 
 1. Navigate to the project directory:
